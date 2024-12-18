@@ -21,7 +21,7 @@ list_of_files=[
     "tests/unit/__init__.py", 
     "tests/unit/unit.py",
     "tests/integration/__init__.py",
-    "tests/integration/int.py"
+    "tests/integration/int.py",
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",

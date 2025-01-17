@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: DimondPricePrediction
+Version: 0.0.1
+Author: Monika Singh
+Author-email: Monikasingh.jmi@gmail.com
+License-File: LICENSE
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
